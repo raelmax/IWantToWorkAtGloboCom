@@ -1,9 +1,60 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Me chamo Rael Max, sou de Imperatriz-MA(sim, temos internet!) e atualmente trabalho como desenvolvedor freelancer. Sou
+acadêmico do 5° período de Sistemas de Informação na Faculdade de Imperatriz(FACIMP) e atuo na área de desenvolvimento
+de sites à mais de 4 anos.
+
+Álguns Projetos
+===
+FM Terra - http://fmterra.com.br (html/css/javascript/python/django)
+
+OAB Imperatriz - http://oabimperatriz.com.br (html/css/javascript/python/django)
+
+Fecoimp - http://fecoimp.org (html5/css/javascript/python/django)
+
+Sementes do Verbo - http://sementesdoverbo.org.br/ (html5/css/javascript/python/django)
+
+Jan Ricardo - http://janricardo.com.br (html/css/javascript/wordpress)
+
+Blog do InBuy - http://blog.inbuy.com.br (html/css/javascript/wordpress)
+
+Nos projetos com html5 ainda me enrolo um pouco, ainda tenho algumas dúvidas sobre o algoritmo de outline... em algumas
+vezes acho a documentação oficial meio superficial. Concorda?
+
+
+Últimos Livros
+===
+Padrões JavaScript - http://www.novatec.com.br/livros/padroesjavascript/
+
+Python e Django - http://www.novatec.com.br/livros/pythonedjango/
+
+Desenvolvimento guiado a testes - http://www.submarino.com.br/produto/1/21853390/tdd+desenvolvimento+guiado+por+testes
+
+
+E alguns outros que li na internet mas não recordo o nome, principalmente coisas relacionadas à html5 e javascript.
+
+
+
+Porque estou enviando o currículo?
+===
+Enfim, acredito que eu tenha pelo menos 60~70% do perfil do candidato que procuram. Ando insatisfeito com os conteúdos da faculdade, com o mercado de tecnologia da minha região e vejo nessa vaga uma ótima oportunidade de aprender, melhorar e crescer profissionalmente.
+
+
+Links
+===
+GitHub(prefiro o baazar) - http://github.com/raelmax / https://gist.github.com/raelmax/
+
+Linkedin - http://linkedin.com/in/raelmax
+
+Blog - http://raelmax.com
+
+Twitter - http://twitter.com/raelmax
+
+
+
