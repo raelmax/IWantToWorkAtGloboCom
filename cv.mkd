@@ -37,10 +37,6 @@ Python e Django - http://www.novatec.com.br/livros/pythonedjango/
 Desenvolvimento guiado a testes - http://www.submarino.com.br/produto/1/21853390/tdd+desenvolvimento+guiado+por+testes
 
 
-E alguns outros que li na internet mas não recordo o nome, principalmente coisas relacionadas à html5 e javascript.
-
-
-
 Porque estou enviando o currículo?
 ===
 Enfim, acredito que eu tenha pelo menos 60~70% do perfil do candidato que procuram. Ando insatisfeito com os conteúdos da faculdade, com o mercado de tecnologia da minha região e vejo nessa vaga uma ótima oportunidade de aprender, melhorar e crescer profissionalmente.
