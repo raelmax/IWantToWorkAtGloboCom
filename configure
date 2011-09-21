@@ -1,0 +1,2 @@
+chmod +x condicionador.py
+echo "Pronto para execução"
