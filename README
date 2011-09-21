@@ -1,0 +1,7 @@
+# Ar Condicionado ACME
+Testado:
+Ubuntu 10.10 - Python 2.6
+
+Para executar:
+./configure
+make
