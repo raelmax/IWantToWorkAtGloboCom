@@ -24,6 +24,7 @@ class ArCondicionado:
             if self.temperatura == temp_min or stop == True:
                 stop = True
                 if self.temperatura == temp_max:
+                    self.custo = self.custo + 0.5
                     self.reduz_um_grau()
                     stop = False
                 continue
